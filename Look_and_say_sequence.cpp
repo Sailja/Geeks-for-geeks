@@ -11,7 +11,7 @@ int main()
 	cout<<"11";
 	string str="11";
 	for(int i=3;i<=n;i++)
-	{
+	{ 
 		str+="z";//a dummy constant is added at end
 		
 		int l=str.length();
